@@ -1,0 +1,4 @@
+[submodule "wasm-minimal-protocol"]
+	path = wasm-minimal-protocol
+	url = https://github.com/astrale-sharp/wasm-minimal-protocol.git
+
