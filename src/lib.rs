@@ -1,5 +1,5 @@
+use qrcode::{render::svg, QrCode};
 use wasm_minimal_protocol::*;
-use qrcode::{QrCode, render::svg};
 
 initiate_protocol!();
 
